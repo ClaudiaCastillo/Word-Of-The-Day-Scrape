@@ -1,0 +1,26 @@
+{
+  "name": "Word-Of-The-Day-Scrape",
+  "version": "1.0.0",
+  "description": "Word of the Day",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiaCastillo/Word-Of-The-Day-Scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiaCastillo/Word-Of-The-Day-Scrape/issues"
+  },
+  "homepage": "https://github.com/ClaudiaCastillo/Word-Of-The-Day-Scrape#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "npm": "^6.4.1",
+    "request": "^2.88.0"
+  }
+}
