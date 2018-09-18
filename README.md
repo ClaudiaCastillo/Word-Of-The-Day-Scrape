@@ -7,11 +7,15 @@ A simple WOTD application which creates our own API server using Express, Cheeri
 Once we have the data, we create a JSON endpoint to use in our application.
 
 To Install Cheerio, Express and Request use the following commands:
+
 	npm install cheerio
+	
 	npm install request
+	
 	npm install express
 
 Run the app.js script use the following command:
+
 	node app.js
 
 In the chrome browser, go to localhost:3000, and you should see the JSON response for the word of the day.
